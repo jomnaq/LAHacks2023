@@ -3,7 +3,7 @@ repository for la hacks
 
 
 4/22 - 12:35 AM
-Idea Final Decision: Gacha To-Do List 
+Idea Final Decision: Gacha To-Do List (Track 3; Home Room)
 - Basic Premise: You enter in your To-Do list, and each time you complete the task, you will gain a certain amount of credit toward your gacha rolls. How much credit you gain will be based on how long you spent on your assignment so you get more credit for the larger your task is (you enter the number of hours/mins it took you when you complete it). For example, a large, long-term project will give you more credit than a short daily homework assignment. When you gain enough credit by completing tasks, you will be able to roll for a card, where some cards are more rare than others. This will motivate gacha addicts to get their tasks done.
 
 Things we will have to implement:
