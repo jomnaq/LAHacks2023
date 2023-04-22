@@ -30,16 +30,14 @@ Further features (things to implement if time permits)):
 - If the due date passes and you haven't completed it, you'll be "punished", that is, you'll lose some credit toward your gacha rolls.
 
 4/21 - 10:30 PM
-brainstorming: 
-  home away from home:
+Brainstorming:
+- home away from home:
     - user inputs home area, then inputs place traveling to --> finds restaurants with similar keywords
     - indicates bathroom locations on map
-
-  green house:
+ - green house:
     - recycle monster
     - sustainable travel buddy 
-
-  home room:
+ - home room:
     - website connecting students writing essays with real-time editing help from people -- like grammarly, but with real people. the students can give the people
     reviews, and those people get written
     - journaling app designed in the language you want to learn
