@@ -1,6 +1,12 @@
 # LAHacks2023
 repository for la hacks
 
+
+4/22 - 12:35 AM
+Idea Final Decision: Gacha To-Do List 
+- Basic Premise: 
+
+4/21 - 10:30 PM
 brainstorming:
   home away from home:
     - user inputs home area, then inputs place traveling to --> finds restaurants with similar keywords
